@@ -8,9 +8,9 @@ URL: https://www.figma.com/file/IZJE3W8GWgqTOzEgJy8aQ7/commits?type=design&node-
 
 * Screenshots
 
-![Style GUIDE](https://drive.google.com/file/d/1Y0VUVotGo8azG4nNR4BCJA-KjE16vLrY/view?usp=drive_link)
-![Components](https://drive.google.com/file/d/14vfXVlhQoEcNKu-oaLAVmG8rybDfjgvt/view?usp=drive_link)
-![Pages](https://drive.google.com/file/d/1MXBPGm34QTqZKddxM0cetRCpiMVeBk-R/view?usp=drive_link)
+![Style GUIDE](https://drive.google.com/file/d/1Y0VUVotGo8azG4nNR4BCJA-KjE16vLrY/view)
+![Components](https://drive.google.com/file/d/14vfXVlhQoEcNKu-oaLAVmG8rybDfjgvt/view)
+![Pages](https://drive.google.com/file/d/1MXBPGm34QTqZKddxM0cetRCpiMVeBk-R/view)
 
 
 ## Flutter Project
