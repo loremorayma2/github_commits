@@ -1,16 +1,56 @@
 # github_commits
 
-A new Flutter project.
+## UI/UX
 
-## Getting Started
+* Figma Project
 
-This project is a starting point for a Flutter application.
+URL: https://www.figma.com/file/IZJE3W8GWgqTOzEgJy8aQ7/commits?type=design&node-id=3%3A5&mode=design&t=eUcnzxtgVlXvTKi1-1
 
-A few resources to get you started if this is your first Flutter project:
+* Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Style GUIDE](https://drive.google.com/file/d/1Y0VUVotGo8azG4nNR4BCJA-KjE16vLrY/view?usp=drive_link)
+![Components](https://drive.google.com/file/d/14vfXVlhQoEcNKu-oaLAVmG8rybDfjgvt/view?usp=drive_link)
+![Pages](https://drive.google.com/file/d/1MXBPGm34QTqZKddxM0cetRCpiMVeBk-R/view?usp=drive_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Flutter Project
+
+### Dependencies
+
+```
+dependencies:
+    ...
+    flutter_svg: 2.0.9
+    http: 1.2.0
+    url_launcher: 6.2.3
+```
+
+### Steps
+
+#### Clone the repository
+
+```
+git clone https://github.com/loremorayma2/github_commits.git
+
+```
+
+#### Install dependencies
+
+```
+cd github_commits
+flutter pub get
+
+```
+
+#### Run the application
+
+```
+flutter run
+
+```
+
+#### Run tests
+
+```
+flutter test
+```
