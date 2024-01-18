@@ -6,7 +6,7 @@
 
 URL: https://www.figma.com/file/IZJE3W8GWgqTOzEgJy8aQ7/commits?type=design&node-id=3%3A5&mode=design&t=eUcnzxtgVlXvTKi1-1
 
-* Screenshots
+### Screenshots
 
 * Style guide - URL: https://drive.google.com/file/d/1Y0VUVotGo8azG4nNR4BCJA-KjE16vLrY/view
 * Components - URL: https://drive.google.com/file/d/14vfXVlhQoEcNKu-oaLAVmG8rybDfjgvt/view
